@@ -7,7 +7,13 @@
             "age":51,
             "citizenship":"Franca",
             "last_club":"Real Madrid",
-            "image":"https://cdn.ntvspor.net/61d2e3f851a148d7861c40ab1f71c5fe.jpg?mode=crop&w=940&h=626"
+            "image":"https://cdn.ntvspor.net/61d2e3f851a148d7861c40ab1f71c5fe.jpg?mode=crop&w=940&h=626",
+            "Ucl_winners":3,
+            "Uel_winners":0,
+            "League_winners":1,
+            "Usc":1,
+            "Fwc":1
+
         },
         {
             "id":2,
@@ -16,7 +22,12 @@
             "age":53,
             "citizenship":"Spain",
             "last_club":"Manchester City",
-            "image":"https://cdnuploads.aa.com.tr/uploads/Contents/2023/03/31/thumbs_b_c_bce4fc88de33ffde82b3d85d33383b76.jpg?v=134823"
+            "image":"https://cdnuploads.aa.com.tr/uploads/Contents/2023/03/31/thumbs_b_c_bce4fc88de33ffde82b3d85d33383b76.jpg?v=134823",
+            "Ucl_winners":3,
+            "Uel_winners":0,
+            "League_winners":11,
+            "Usc":4,
+            "Fwc":4
         },
         {
             "id":3,
@@ -25,7 +36,12 @@
             "age":65,
             "citizenship":"Italy",
             "last_club":"Real Madrid",
-            "image":"https://www.trtspor.com.tr/resimler/452000/453675.jpg"
+            "image":"https://www.trtspor.com.tr/resimler/452000/453675.jpg",
+            "Ucl_winners":4,
+            "Uel_winners":0,
+            "League_winners":5,
+            "Usc":4,
+            "Fwc":2
         },
         {
             "id":4,
@@ -34,7 +50,12 @@
             "age":61,
             "citizenship":"Portugal",
             "last_club":"As Roma",
-            "image":"https://media.asroma.com/prod/images/landscape_medium_fill/b7c6d8262c9b-card-jm.png"
+            "image":"https://media.asroma.com/prod/images/landscape_medium_fill/b7c6d8262c9b-card-jm.png",
+            "Ucl_winners":2,
+            "Uel_winners":2,
+            "League_winners":8,
+            "Usc":0,
+            "Fwc":0
         },
         {
             "id":5,
@@ -43,7 +64,12 @@
             "age":61,
             "citizenship":"Germany",
             "last_club":"Liverpool",
-            "image":"https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2023-07/jurgen-klopp.jpg?itok=ZbGgxVO_"
+            "image":"https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2023-07/jurgen-klopp.jpg?itok=ZbGgxVO_",
+            "Ucl_winners":1,
+            "Uel_winners":0,
+            "League_winners":3,
+            "Usc":0,
+            "Fwc":0
         },
         {
             "id":6,
@@ -52,7 +78,12 @@
             "age":59,
             "citizenship":"Germany",
             "last_club":"Bayern Munich",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/0/04/2022_Hansi_Flick_%28cropped%29.jpg"
+            "image":"https://upload.wikimedia.org/wikipedia/commons/0/04/2022_Hansi_Flick_%28cropped%29.jpg",
+            "Ucl_winners":1,
+            "Uel_winners":0,
+            "League_winners":1,
+            "Usc":1,
+            "Fwc":1
         },
         {
             "id":7,
@@ -61,7 +92,12 @@
             "age":53,
             "citizenship":"Spain",
             "last_club":"Aston Villa",
-            "image":"https://www.globesoccer.com/wp-content/uploads/2017/09/Emery-Speakers-globesoccer-2022.jpg"
+            "image":"https://www.globesoccer.com/wp-content/uploads/2017/09/Emery-Speakers-globesoccer-2022.jpg",
+            "Ucl_winners":0,
+            "Uel_winners":4,
+            "League_winners":0,
+            "Usc":1,
+            "Fwc":0
         },
         {
             "id":8,
@@ -70,7 +106,12 @@
             "age":42,
             "citizenship":"Spain",
             "last_club":"Arsenal",
-            "image":"https://pbs.twimg.com/media/ETAJHSLWkAIcYFR.jpg"
+            "image":"https://pbs.twimg.com/media/ETAJHSLWkAIcYFR.jpg",
+            "Ucl_winners":0,
+            "Uel_winners":0,
+            "League_winners":0,
+            "Usc":0,
+            "Fwc":0
         },
         {
             "id":9,
@@ -79,7 +120,12 @@
             "age":55,
             "citizenship":"Italy",
             "last_club":"Chelsea",
-            "image":"https://s.hs-data.com/bilder/spieler/gross/2570.jpg"
+            "image":"https://s.hs-data.com/bilder/spieler/gross/2570.jpg",
+            "Ucl_winners":0,
+            "Uel_winners":0,
+            "League_winners":5,
+            "Usc":0,
+            "Fwc":0
         },
         {
             "id":10,
@@ -88,7 +134,12 @@
             "age":54,
             "citizenship":"Argentina",
             "last_club":"Atletico Madrid",
-            "image":"https://cdn.ntvspor.net/355e18f63a3f4055a1410ddd46e1abc7.jpg?mode=crop&w=940&h=626"
+            "image":"https://cdn.ntvspor.net/355e18f63a3f4055a1410ddd46e1abc7.jpg?mode=crop&w=940&h=626",
+            "Ucl_winners":1,
+            "League_winners":2,
+            "Uel_winners":1,
+            "Usc":1,
+            "Fwc":0
         },
         {
             "id":11,
@@ -97,7 +148,11 @@
             "age":43,
             "citizenship":"Spain",
             "last_club":"Bayer Leverkuzen",
-            "image":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blte7a9aedc06077f1c/65b43be4ff887a040b5ac6b5/290123_Head_coach_Xabi_Alonso_of_Bayer_04_Leverkusen_1920.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+            "image":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blte7a9aedc06077f1c/65b43be4ff887a040b5ac6b5/290123_Head_coach_Xabi_Alonso_of_Bayer_04_Leverkusen_1920.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+            "Ucl_winners":0,
+            "League_winners":0,
+            "Usc":0,
+            "Fwc":0
         },
         {
             "id":12,
@@ -106,7 +161,12 @@
             "age":37,
             "citizenship":"Germany",
             "last_club":"Bayern Munich",
-            "image":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltb2225302fa705b0b/6442e89ee83317f3775f70cf/1472152342.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+            "image":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltb2225302fa705b0b/6442e89ee83317f3775f70cf/1472152342.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+            "Ucl_winners":0,
+            "Uel_winners":0,
+            "League_winners":1,
+            "Usc":0,
+            "Fwc":0
         }
     ]
 }
