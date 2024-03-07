@@ -29,3 +29,69 @@
   width: 350px !important;
   height: 300px !important;
 }
+.backfone{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #61b761;
+}
+#root{
+  width: 100%;
+}
+.details{
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: darkcyan;
+  border-radius: 15px;
+}
+.photo{
+  width: 500px;
+  height: 300px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+.details span{
+  font-size: 20px;
+    font-weight: 600;
+    color: white;
+   border-radius: 15px;
+}
+.orta{
+  width: 80%;
+  display: flex;
+}
+.sual,.cavab{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.but{
+  border: 1px solid blue;
+  border-radius: 10px;
+  padding: 3px 6px;
+}
+.form{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.form input{
+  width: 40%;
+  margin-bottom: 10px;
+  border: 1px solid blue;
+  height: 30px;
+  border-radius: 7px;
+}
+.form label{
+  width: 40%;
+}
+.form button{
+  width: 20%;
+  border: 1px solid blue;
+  background-color: green;
+  color: white;
+  font-weight: 600;
+}
